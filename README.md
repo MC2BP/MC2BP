@@ -20,7 +20,7 @@ I'm a junior developer from switzerland.
 ![OpenGL](/images/opengl.png)
 ![Linux](/images/linux.webp)
 
-## Unpopular Opinios
+## Unpopular Opinions
 
 * 1 Tab = 3 Spaces
 * Every programming language sucks, you just gotta find the ones that suck less
